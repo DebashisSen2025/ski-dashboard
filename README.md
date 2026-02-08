@@ -1,4 +1,4 @@
-🏷️ Project Headline
+ ## Project Headline
 “Exploratory Data Analysis of Airbnb NYC 2019 with Power BI”
 
 📑 Titles
